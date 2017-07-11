@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/Compat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/CustomGestureDetector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnGestureListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnMatrixChangedListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnOutsidePhotoTapListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnPhotoTapListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnScaleChangedListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/OnSingleFlingListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/PhotoView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/PhotoViewAttacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/liwenzhi/dcm/photoview/Util.java" charset="UTF-8" />
+  </component>
+</project>
+
